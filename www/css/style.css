@@ -1,7 +1,12 @@
 /**/
+@import url('https://fonts.googleapis.com/css?family=Lobster');
 body{
   background-color: crimson;
 }
 button , label{
   margin-top: 20px; 
+}
+h1{
+  font-family: 'Lobster', cursive;
+  text-align: center;
 }
